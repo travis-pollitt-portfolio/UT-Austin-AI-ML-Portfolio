@@ -4,6 +4,4 @@ This repository contains selected coursework and applied projects completed as p
 
 Each project is implemented as a Jupyter notebook and focuses on applying machine learning techniques to real-world, business-relevant problems.
 
-## Projects
-
-### Project 1: Gig Economy Data Analysis
+## Project 1: Gig Economy Data Analysis
