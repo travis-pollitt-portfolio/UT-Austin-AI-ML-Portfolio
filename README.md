@@ -8,7 +8,7 @@ Each project is implemented as a Jupyter notebook and focuses on applying machin
 
 - 📓 Notebook: `project-1.ipynb`
 - ▶️ Open in Colab:  
-  [https://colab.research.google.com/github/travis-pollitt-portfolio/UT-Austin-AI-ML-Portfolio/blob/main/notebooks/01_gig_economy_data_analysis.ipynb]
+https://colab.research.google.com/drive/11suT4LwpzoTM19Tjazv0FLJbNG5k8f4V#scrollTo=zq3hbFpsKAOM)
 
 ## Project 2: Customer Segmentation for Financial Services
 
